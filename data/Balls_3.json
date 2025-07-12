@@ -8,6 +8,11 @@
     "percentToQualify": 69,
     "password": "Free To Copy",
     "records": [
-
+             {
+            "user": "Lemniks",
+            "link": "https://youtu.be/K6RwxA3XX5c",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
