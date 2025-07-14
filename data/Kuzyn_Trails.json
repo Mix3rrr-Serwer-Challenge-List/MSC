@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Kolib24",
+            "link": "https://youtu.be/jGw-jA2X2iQ",
+            "percent": 100,
+            "hz": 150
+        }
     ]
 }
