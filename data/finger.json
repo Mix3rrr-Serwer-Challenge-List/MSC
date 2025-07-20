@@ -1,0 +1,18 @@
+{
+    "id": 123194607,
+    "name": "fingerdash czeleng",
+    "author": "bumpernikielek",
+    "creators": ["bumpernikielek"],
+    "verifier": "bumpernikielek",
+    "verification": "https://www.youtube.com/watch?v=Fy3U-Ou1A8A",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+             {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=H7u1AaeI_LE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
